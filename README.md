@@ -27,7 +27,7 @@ This app aggregates public domain audiobooks from **LibriVox** (via the Internet
    ```
 
 2. **Start the app**
-   ```bash
+   ``bash
    npx expo start
    ```
 
